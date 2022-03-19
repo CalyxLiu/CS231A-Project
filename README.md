@@ -2,7 +2,7 @@
 
 ## Novel View Synthesis from a Single Image: Model Analysis Across Datasets
 
-Our project contains files for our CS 231A Project, Winter 2022. 
+This repository contains files for our CS 231A Project, Winter 2022. 
 
 The video demos from qualitative analysis are included in the Video Demos folder.
 
